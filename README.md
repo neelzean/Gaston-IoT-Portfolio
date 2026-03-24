@@ -1,6 +1,6 @@
 # Neel Zean Dunn Gaston | Computer Engineering Portfolio
 
-Hello! I'm Neel Zean Dunn Gaston, a passionate Computer Engineering student at STI College Cubao (2021–2026). This repository contains the source code for my personal portfolio website, built to highlight my experiences in embedded systems and my skills in hardware diagnostics and repair.
+Hello! I'm Neel Zean Dunn Gaston, a passionate Computer Engineering student at STI College Cubao (2022–2026). This repository contains the source code for my personal portfolio website, built to highlight my experiences in embedded systems and my skills in hardware diagnostics.
 
 ##  Highlights
 - **Education:** BS Computer Engineering, STI College Cubao.
